@@ -1,0 +1,19 @@
+header.masthead:before {
+    opacity: 0.2;
+}
+.button-container{
+    display: inline;
+}
+.previous-btn{
+float: left;
+width: 50%;
+}
+.next-btn{
+    margin-top: -50px;
+    padding-top: -50px;
+float: right;
+width: 50%;
+}
+/* .menu-btn{
+    border: 10% !important;
+} */

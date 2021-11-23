@@ -1,0 +1,15 @@
+{
+    "peramtr":
+    {
+        "local_uri":"mysql://root:@localhost/c4coding",
+        "prod_uri":"mysql://root:@localhost/c4coding",
+        "fb_uri":"https://facebook.com/c4coding",
+        "twitter_uri":"https://twitter.com/c4coding",
+        "github_uri":"https://github.com/c4coding",
+        "website_name":"C 4 Coding",
+        "num_of_post":"3",
+        "admin_username":"afzal",
+        "admin_password":"01122",
+        "upload_location":"C:\\C4Coding_project\\static\\assets"
+    }
+}
