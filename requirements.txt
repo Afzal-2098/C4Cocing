@@ -1,0 +1,24 @@
+appdirs==1.4.4
+autopep8==1.5.7
+certifi==2021.5.30
+chardet==4.0.0
+click==8.0.1
+colorama==0.4.4
+distlib==0.3.2
+filelock==3.0.12
+Flask==2.0.2
+Flask-SQLAlchemy==2.5.1
+greenlet==1.1.2
+gTTS==2.2.2
+idna==2.10
+itsdangerous==2.0.1
+Jinja2==3.0.2
+MarkupSafe==2.0.1
+mysqlclient @ file:///C:/Users/MY%20PC/Downloads/mysqlclient-1.4.6-cp39-cp39-win_amd64.whl
+pycodestyle==2.7.0
+requests==2.25.1
+six==1.16.0
+SQLAlchemy==1.4.26
+toml==0.10.2
+urllib3==1.26.5
+Werkzeug==2.0.2
